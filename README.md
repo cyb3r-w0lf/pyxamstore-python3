@@ -3,7 +3,7 @@ This is an alpha release of an `assemblies.blob` AssemblyStore parser written in
 
 ## Installing
 ```shell
-    pip3 install build && python3 -m build && pip install --force-reinstall dist/pyxamstore-1.0.0-py3-none-any.whl
+    pip3 install build && python3 -m build && pip3 install --force-reinstall dist/pyxamstore-1.0.0-py3-none-any.whl
 ```
 
 You can then use the tool by calling `pyxamstore`
